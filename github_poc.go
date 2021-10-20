@@ -8,7 +8,7 @@ import (
 // Hello returns a greeting for the named person.
 func Hello(name string) string {
     // Return a greeting that embeds the name in a message.
-    message := fmt.Sprintf("Demo for Github zzz, %v. Welcome Back Again! - with pr", name)
+    message := fmt.Sprintf("Demo for Github after take over, %v. Welcome Back Again! - with pr", name)
     fmt.Printf(shortid.Generate())
     return message
 }
