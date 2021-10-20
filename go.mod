@@ -1,4 +1,4 @@
-module github.com/du-research2/github_poc
+module github.com/du-research/github_poc
 
 go 1.16
 
