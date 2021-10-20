@@ -1,4 +1,4 @@
-package version
+package github_poc
 
 import (
     "fmt"
